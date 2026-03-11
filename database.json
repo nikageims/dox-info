@@ -2,13 +2,13 @@
   "people": [
     {
       "id": 1,
-      "firstName": "John",
-      "lastName": "Doe",
-      "age": 24,
-      "birthDate": "2000-05-10",
-      "location": "USA",
-      "description": "Example profile",
-      "photo": "images/john.jpg"
+      "firstName": "vato",
+      "lastName": "simonishvili",
+      "age": 17 ,
+      "birthDate": "2010-09-17",
+      "location": "tbilisi",
+      "description": "yle",
+      "photo": "/asets/vatosimonishvili.png"
     }
   ]
 }
