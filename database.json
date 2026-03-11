@@ -1,0 +1,14 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "age": 24,
+      "birthDate": "2000-05-10",
+      "location": "USA",
+      "description": "Example profile",
+      "photo": "images/john.jpg"
+    }
+  ]
+}
